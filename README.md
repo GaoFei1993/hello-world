@@ -1,6 +1,10 @@
 # hello-world
 The Hello World project is a time-honored tradition in computer programming. It is a simple exercise that gets you started when learning something new. Let’s get started with GitHub!  
-  
+1.Repository是项目文件夹  
+2.master Branch是原始文件，即最新更新的文件  
+3.slave Branch是拷贝文件，用于修改，修改完毕之后可以Pull Request  
+4.Pull Request是推送请求，即要求以当前分支替换master Branch  
+
 # Step 1. Create a Repository   
 1.In the upper right corner, next to your avatar or identicon, click  and then select New repository.  
 2.Name your repository hello-world.  
