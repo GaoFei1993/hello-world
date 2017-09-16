@@ -32,3 +32,12 @@ When you’re done with your message, click Create pull request!
 1.Click the green Merge pull request button to merge the changes into master.  
 2.Click Confirm merge.  
 3.Go ahead and delete the branch, since its changes have been incorporated, with the Delete branch button in the purple box.  
+
+# Celebrate!  
+By completing this tutorial, you’ve learned to create a project and make a pull request on GitHub!  
+Here’s what you accomplished in this tutorial:  
+1.Created an open source repository  
+2.Started and managed a new branch  
+3.Changed a file and committed those changes to GitHub  
+4.Opened and merged a Pull Request  
+
