@@ -21,9 +21,23 @@ The Hello World project is a time-honored tradition in computer programming. It 
 5.Click Commit changes button.  
   
 # Step 4. Open a Pull Request  
-  
-  
+1.Click the  Pull Request tab, then from the Pull Request page, click the green New pull request button.  
+2.Select the branch you made, readme-edits, to compare with master (the original).  
+3.Look over your changes in the diffs on the Compare page, make sure they’re what you want to submit.  
+4.When you’re satisfied that these are the changes you want to submit, click the big green Create Pull Request button.  
+5.Give your pull request a title and write a brief description of your changes.  
+When you’re done with your message, click Create pull request!  
+
 # Step 5. Merge your Pull Request  
 1.Click the green Merge pull request button to merge the changes into master.  
 2.Click Confirm merge.  
 3.Go ahead and delete the branch, since its changes have been incorporated, with the Delete branch button in the purple box.  
+
+# Celebrate!  
+By completing this tutorial, you’ve learned to create a project and make a pull request on GitHub!  
+Here’s what you accomplished in this tutorial:  
+1.Created an open source repository  
+2.Started and managed a new branch  
+3.Changed a file and committed those changes to GitHub  
+4.Opened and merged a Pull Request  
+
