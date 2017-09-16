@@ -2,7 +2,7 @@
 The Hello World project is a time-honored tradition in computer programming. It is a simple exercise that gets you started when learning something new. Let’s get started with GitHub!
 
 Step 1. Create a Repository
-1.In the upper right corner, next to your avatar or identicon, click  and then select New repository.
+1.In the upper right corner, next to your avatar or identicon, click  and then select New repository.\n
 2.Name your repository hello-world.
 3.Write a short description.
 4.Select Initialize this repository with a README.
